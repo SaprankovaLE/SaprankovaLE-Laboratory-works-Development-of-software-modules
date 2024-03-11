@@ -1,0 +1,6 @@
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task3Library\obj\Debug\Task3Library.csproj.AssemblyReference.cache
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task3Library\obj\Debug\Task3Library.csproj.CoreCompileInputs.cache
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task3Library\bin\Debug\Task3Library.dll
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task3Library\bin\Debug\Task3Library.pdb
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task3Library\obj\Debug\Task3Library.dll
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task3Library\obj\Debug\Task3Library.pdb

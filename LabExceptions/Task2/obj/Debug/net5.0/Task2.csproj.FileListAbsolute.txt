@@ -1,0 +1,16 @@
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\bin\Debug\net5.0\Task2.exe
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\bin\Debug\net5.0\Task2.deps.json
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\bin\Debug\net5.0\Task2.dll
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\bin\Debug\net5.0\ref\Task2.dll
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\bin\Debug\net5.0\Task2.pdb
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.dll
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\ref\Task2.dll
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.pdb
+F:\2 курс 2 семестр\Разработка программных модулей\LabExceptions\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
