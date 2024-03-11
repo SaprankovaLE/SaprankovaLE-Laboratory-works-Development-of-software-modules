@@ -1,0 +1,16 @@
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.csproj.AssemblyReference.cache
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.AssemblyInfoInputs.cache
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.AssemblyInfo.cs
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.csproj.CoreCompileInputs.cache
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\bin\Debug\net5.0\Streams.exe
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\bin\Debug\net5.0\Streams.deps.json
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\bin\Debug\net5.0\Streams.runtimeconfig.json
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\bin\Debug\net5.0\Streams.runtimeconfig.dev.json
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\bin\Debug\net5.0\Streams.dll
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\bin\Debug\net5.0\ref\Streams.dll
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\bin\Debug\net5.0\Streams.pdb
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.dll
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\ref\Streams.dll
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.pdb
+F:\2 курс 2 семестр\Разработка мобильных приложений\Streams\obj\Debug\net5.0\Streams.genruntimeconfig.cache
