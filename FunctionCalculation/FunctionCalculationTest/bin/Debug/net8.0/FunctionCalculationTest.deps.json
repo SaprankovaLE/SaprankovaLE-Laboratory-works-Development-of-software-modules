@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FunctionCalculationTest/1.0.0": {
+        "dependencies": {
+          "FunctionCalculationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FunctionCalculationTest.dll": {}
+        }
+      },
+      "FunctionCalculationLibrary/1.0.0": {
+        "runtime": {
+          "FunctionCalculationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunctionCalculationTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FunctionCalculationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

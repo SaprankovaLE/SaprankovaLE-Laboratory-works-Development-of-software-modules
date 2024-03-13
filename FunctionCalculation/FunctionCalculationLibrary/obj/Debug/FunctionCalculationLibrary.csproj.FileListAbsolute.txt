@@ -1,0 +1,6 @@
+D:\FunctionCalculation\FunctionCalculationLibrary\bin\Debug\FunctionCalculationLibrary.dll
+D:\FunctionCalculation\FunctionCalculationLibrary\bin\Debug\FunctionCalculationLibrary.pdb
+D:\FunctionCalculation\FunctionCalculationLibrary\obj\Debug\FunctionCalculationLibrary.csproj.AssemblyReference.cache
+D:\FunctionCalculation\FunctionCalculationLibrary\obj\Debug\FunctionCalculationLibrary.csproj.CoreCompileInputs.cache
+D:\FunctionCalculation\FunctionCalculationLibrary\obj\Debug\FunctionCalculationLibrary.dll
+D:\FunctionCalculation\FunctionCalculationLibrary\obj\Debug\FunctionCalculationLibrary.pdb
